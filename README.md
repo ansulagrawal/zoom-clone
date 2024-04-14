@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-  <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
-  
+  <img src="https://github.com/ansulagrawal/zoom-clone/assets/55939700/4c81e4d3-16d9-4392-9c42-9f2920d0867d" alt="Project Banner">
+
   <br />
 
   <div>
